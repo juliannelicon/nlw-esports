@@ -1,12 +1,12 @@
-<h2 align="center">NLW Esports - Trilha Ignite</h2>
+<h2 align="center">NLW eSports - Trilha Ignite</h2>
 
 <p align="center">
-  <img alt="NLW Esports " width="400px" src="https://github.com/juliannelicon/nlw-esports/blob/master/nlw-esports.png" />
+  <img alt="NLW eSports " width="400px" src="https://github.com/juliannelicon/nlw-esports/blob/master/nlw-esports.png" />
 </p>
 
 
 ## Evento
-- [NLW - Esports](https://nlw.rocketseat.com.br/invite/julianne-33323)
+- [NLW - eSports](https://nlw.rocketseat.com.br/invite/julianne-33323)
 
 ## Projeto Server
 
