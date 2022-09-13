@@ -25,3 +25,5 @@ Tecnologias
 Tecnologias
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [React Navigation](https://reactnavigation.org/)
+- [LinearGradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
