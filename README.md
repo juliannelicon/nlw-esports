@@ -19,6 +19,8 @@ Tecnologias
 Tecnologias
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [tailwindcss](https://tailwindcss.com/)
+- [Phosphor Icons](https://phosphoricons.com/)
 
 ## Projeto Mobile
 
