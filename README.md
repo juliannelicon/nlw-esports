@@ -17,6 +17,8 @@ Tecnologias
 ## Projeto Web
 
 Tecnologias
+
+- [Vite](https://vitejs.dev/guide/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
