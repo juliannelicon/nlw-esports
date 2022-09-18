@@ -12,10 +12,10 @@ import {
 import { Loading } from './src/components/Loading';
 import { Background } from './src/components/Background';
 
-import { Home } from './src/screens/Home';
+import { Routes } from './src/routes';
 
 export default function App() {
-  const [fontsLoader] = useFonts({
+  const [fontsLoaded] = useFonts({
     Inter_400Regular,
     Inter_600SemiBold,
     Inter_700Bold,
@@ -30,7 +30,7 @@ export default function App() {
         translucent
       />
 
-      {fontsLoader ? <Home/> :  <Loading />}
+      {fontsLoaded ? <Routes/> :  <Loading />}
     </Background>
   );
 }
